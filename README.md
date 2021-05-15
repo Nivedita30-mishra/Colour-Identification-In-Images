@@ -3,19 +3,19 @@ Color identification in images
 
 ## Packages
 
-*pandas 
+* pandas 
 
 ```bash
 pip install pandas
 ```
 
-*argparse
+* argparse
 
 ```bash
 pip install argparse
 ```
 
-*Opencv
+* Opencv
 
 ```bash
 pip install opencv-python
