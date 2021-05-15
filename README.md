@@ -34,6 +34,8 @@ python ColourIdentification.py -i nature.jpg
 
   * It clearly identifies the color of the selected area in the image.
 
+![image](output.png)
+
 ## Conclusion 
 
    * Successfully detects the color of the part of the image using computer vision.
